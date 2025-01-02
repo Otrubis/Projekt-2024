@@ -1,7 +1,7 @@
 
-# Photoshop CLI
+# Photoshop 
 
-Photoshop CLI je jednoduchý nástroj pro úpravu obrázků ve formátu TGA pomocí příkazové řádky. Tento program umožňuje manipulaci s obrázky, jako je změna velikosti, ořezávání, posun a další operace.
+Photoshop  je jednoduchý nástroj pro úpravu obrázků ve formátu TGA pomocí příkazové řádky. Tento program umožňuje manipulaci s obrázky, jako je změna velikosti, ořezávání, posun a další operace.
 
 ---
 
@@ -76,7 +76,7 @@ Příklad:
 
 ---
 
-## **Příklad relace**
+## **Příklad **
 
 Po spuštění programu zadejte příkazy pro úpravy obrázků. Příklad relace:
 
